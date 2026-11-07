@@ -129,5 +129,9 @@ The package should not contain `subscription.conf` or `servers.tsv`.
 
 ## Keywords
 
-VPN for muOS, VPN for Knulli, muVPN, sing-box muOS, VLESS Anbernic, PortMaster VPN,
-muOS VPN client, Knulli VPN.
+VPN for muOS, VPN for Knulli, VPN for Anbernic, muVPN, muVPN muOS, muVPN Knulli,
+sing-box muOS, sing-box Knulli, sing-box Anbernic, VLESS muOS, VLESS Anbernic,
+PortMaster VPN, muOS VPN client, Knulli VPN client, Anbernic VPN client,
+RG35XX VPN, RG35XX SP VPN, portable VPN, handheld VPN, VPN for retro console,
+muOS sing-box, Knulli sing-box, Anbernic VPN app, VPN on Anbernic.
+
