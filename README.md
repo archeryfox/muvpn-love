@@ -121,3 +121,13 @@ zip -0 -r ../muvpn_love.muxzip application
 ```
 
 The package should not contain `subscription.conf` or `servers.tsv`.
+
+
+## Related projects
+
+- [Telegram for muOS/Knulli](https://github.com/archeryfox/TGmuOS-LOVE) — Telegram client for the same devices.
+
+## Keywords
+
+VPN for muOS, VPN for Knulli, muVPN, sing-box muOS, VLESS Anbernic, PortMaster VPN,
+muOS VPN client, Knulli VPN.
