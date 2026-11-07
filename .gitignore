@@ -1,0 +1,5 @@
+debug.log*
+*.log
+*.swp
+*.backup-*
+tools/.import_vless_subscription.py.kate-swp

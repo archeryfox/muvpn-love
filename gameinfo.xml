@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gameList>
+  <game>
+    <path>./mux_launch.sh</path>
+    <name>muVPN LÖVE pilot</name>
+    <desc>LÖVE pilot of the muVPN server picker and connection status UI for muOS.</desc>
+    <releasedate>20261029T000000</releasedate>
+    <developer>muvpn_love</developer>
+    <genre>Utility</genre>
+  </game>
+</gameList>
